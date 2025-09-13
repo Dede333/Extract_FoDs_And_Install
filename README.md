@@ -11,4 +11,9 @@ Signification des paramètres en début de script (powershell):
 
 Une fois les FoDs extrait dans un nouveau dépôt, on cible les FoDs concernant les outils RSAT et enfin, on les installes dans l'image WIM.
 
+Vous pouvez télécharger l'ISO Microsoft FoDs à l'adresse suivante:
+
+https://learn.microsoft.com/en-us/azure/virtual-desktop/windows-11-language-packs?WT.mc_id=AZ-MVP-5004580 (Prerequis)
+https://software-static.download.prss.microsoft.com/dbazure/988969d5-f34g-4e03-ac9d-1f9786c66749/22621.1.220506-1250.ni_release_amd64fre_CLIENT_LOF_PACKAGES_OEM.iso
+
 Cordialement
